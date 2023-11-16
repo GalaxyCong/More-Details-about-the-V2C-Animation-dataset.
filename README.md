@@ -1,2 +1,2 @@
 # More-Details-about-the-V2C-Animation-dataset.
-Compare TTS dataset, Why the V2C-Animation dataset is Challenging
+V2C is more challenging in the following aspects:
